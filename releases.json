@@ -1,1 +1,16 @@
 
+{
+	"currentRelease": "1.0.6",
+	"releases": [
+		{
+			"version": "1.0.6",
+			"updateTo": {
+				"version": "1.0.6",
+				"pub_date": "2013-09-18T12:29:53+01:00",
+				"notes": "Theses are some release notes innit",
+				"name": "Name 1.0.6",
+				"url": "https://mycompany.example.com/myapp/releases/myrelease"
+			}
+		}
+	]
+}
